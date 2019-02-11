@@ -1,29 +1,5 @@
-# calculadora
+# calculator
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is a FreeCodeCamp tutorial from youtube to make a calculator using VueJS
+link to the tutorial ----> https://www.youtube.com/watch?v=m1_ih43p24s
+All credito to FreeCodeCamp https://www.freecodecamp.org/ and Cody Seibert https://www.youtube.com/channel/UCsrVDPJBYeXItETFHG0qzyw
