@@ -3,7 +3,7 @@
     <div class="display">{{current || '0'}}</div>
     <div class="btn" @click="clear">C</div>
     <div class="btn" @click="sign">+/-</div>
-    <div class="btn">% hello world</div>
+    <div class="btn">%</div>
     <div class="btn operator">÷</div>
     <div class="btn">7</div>
     <div class="btn">8</div>
